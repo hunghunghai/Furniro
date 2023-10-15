@@ -1,0 +1,16 @@
+.btn {
+    background-color: transparent;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 16px 25px;
+}
+
+.btn-primary {
+    background: var(--Primary, #B88E2F);
+}
+
+.btn-white {
+    background: var(--Primary, #FFFF);
+}
